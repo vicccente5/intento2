@@ -1,8 +1,8 @@
 ## Al usar computadores del taller
 1.instalar git
 2.comandos
-    git config --global user.name "vicccente5"
-    git config --global user.email "chubitomermoreno@gmail.com
+        git config --global user.name "vicccente5"
+        git config --global user.email "chubitomermoreno@gmail.com
 
 
 ## Agenda de contactos
