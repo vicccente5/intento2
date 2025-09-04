@@ -22,7 +22,7 @@ while True:
             buscar_contacto(nombre)
         elif opcion == "4":
             print("Saliendo del programa.")
-            break
+            break#no puedo hacer que el breake termine el programa
         else:
             print("Opción no válida. Por favor, seleccione una opción del 1 al 4.")
 
