@@ -1,5 +1,5 @@
 ## Al usar computadores del taller
-    1.instalar git
+    1.instalar git ola
     2.comandos
         git config --global user.name "vicccente5"
         git config --global user.email "chubitomermoreno@gmail.com
