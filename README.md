@@ -1,4 +1,4 @@
-Al usar computadores del taller
+#Al usar computadores del taller
 1.instalar git
 2.comandos
     git config --global user.name "vicccente5"
