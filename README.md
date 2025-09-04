@@ -1,2 +1,9 @@
-# intento2
-ola
+al usar computadores del taller
+1.instalar git
+2.comandos
+    git config --global user.name "vicccente5"
+    git config --global user.email "chubitomermoreno@gmail.com
+
+
+#agenda de contactos
+proyecto simple de consola para registrar, buscar y listar contactos usando python
